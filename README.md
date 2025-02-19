@@ -76,12 +76,12 @@ Caso tenha dúvidas ou precise de suporte, entre em contato:
 
 | Categoria           | Nome do Comando | Descrição | Status  |
 |--------------------|----------------|-----------|---------|
-| **Interface Web**  | `!painel`       | Adicionar um painel de controle web | [] Pendente |
-| **Moderação**      | `!logs`         | Implementar logs de moderação detalhados | [] Pendente |
+| **Interface Web**  | `!painel`       | Adicionar um painel de controle web | [ ] Pendente |
+| **Moderação**      | `!logs`         | Implementar logs de moderação detalhados | [ ] Pendente |
 | **Segurança**      | `!antispam`     | Melhorar a detecção de spam e automação de punições | [] Pendente |
-| **Automação**      | `!autorole`     | Criar um sistema de roles automáticas para novos membros | [] Pendente |
-| **Suporte**        | `!ticket`       | Desenvolver um sistema de tickets para suporte no Discord | [] Pendente |
-| **Documentação**   | `!help`         | Melhorar a documentação e exemplos de uso | [] Pendente |
+| **Automação**      | `!autorole`     | Criar um sistema de roles automáticas para novos membros | [ ] Pendente |
+| **Suporte**        | `!ticket`       | Desenvolver um sistema de tickets para suporte no Discord | [ ] Pendente |
+| **Documentação**   | `!help`         | Melhorar a documentação e exemplos de uso | [x] Pendente |
 
 Caso tenha sugestões de novas funcionalidades, fique à vontade para contribuir!
 
